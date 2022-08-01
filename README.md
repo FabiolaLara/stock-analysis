@@ -31,3 +31,7 @@ Finally thee two images show the time taken to retrieve the calculation for each
 
 The refactoring for these code didn´t make a remarcable difference that in the challenge, we can see that the time taken when calculating data varies few and is not constant, acctually the time taken in the green stocks is a little bit less than in the challenge, the refactor at this level can't make such a huge difference, but thinking in working in the real world wher stocks are constantly treading it is important, if we take in count the millions and millions of stocks worldwide, their prices and the importance for the clients, time takes one of the most important parameters to take in count.
 
+![2017](/Resources/2017.png)
+![2018](/Resources/2018.png)
+
+
