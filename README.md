@@ -6,6 +6,9 @@ The porpuse for this challenge is to refactor the module 2 code in order to see 
 
 # Results
 
+This first image shows the stocks calculated daily, two bottons were created to run two macros, one for diplaying the values ann the other "Clean Data" to clean the cells, so we dont have to ru the macros as tradicionally.
+![DAQO](/Resources/DAQO.png)
+
 
 
 The analysis is well described with screenshots and code (4 pt).
